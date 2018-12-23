@@ -9,22 +9,26 @@ The paper summarizing our results has been accepted for publication to the IEEE 
 Some screenshots of the experiment are below. I also hosted the slides I presented on my website. These slides can be found [here](https://niwilliams.com/projects/RDW_Slides.pptx).
 
 <div align = 'center'>
-<img src = 'Images/110And40SceneEyes(NO_ARROW)_brightened.png' width = '400px'>
+<img src = 'Images/110And40SceneEyes(NO_ARROW)_brightened.png'>
+
 Comparison of 110 FOV and 40 FOV.
 
 <br>
 
-<img src = 'Images/110Distractor.png' width = '400px'>
+<img src = 'Images/110Distractor.png'>
+
 The distractor in our experiment was a running deer.
 
 <br>
 
-<img src = 'Images/banner6.png' width = '400px'>
+<img src = 'Images/banner6.png'>
+
 A participant during the experiment.
 
 <br>
 
-<img src = 'Images/corridor_brightened.png' width = '400px'>
+<img src = 'Images/corridor_brightened.png'>
+
 The virtual environment participants were placed in.
 
 <br>
