@@ -79,7 +79,7 @@ public class RDWController : MonoBehaviour {
     [Tooltip("Translation gain being applied")]
     public float g_t = 0.0f; // Translation gains
     [Tooltip("Curvature gain being applied")]
-    public float g_c = 0.045f; // Curvature gains TODO: figure out what this number represents
+    public float g_c = 0.045f; // Curvature gains 
 
     // Rotation
     private Vector3 directionPrevious;
